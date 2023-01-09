@@ -312,7 +312,7 @@
 
 
 .product{
-    padding: 100px;
+    padding: 100px 0;
     color: white;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.7);
